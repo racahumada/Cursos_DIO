@@ -1,4 +1,6 @@
-# Cursos_DIO
-Cursos Realizados na DIO 
-> Javascript 
-> Bootcamp Cloud Computing & Serverless
+# Cursos DIO (Digital Innovation One)
+
+Repositórios de atividades realizadas em aula;
+
+1. Programação par internet com Javascript;
+2. Bootcamp Cloud Computing & Serverless;
